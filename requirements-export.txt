@@ -1,0 +1,11 @@
+tensorflow==2.20.*
+tf_keras
+onnx
+onnx2tf
+onnx_graphsurgeon
+sng4onnx
+onnxsim
+psutil
+ai_edge_litert
+pillow
+numpy

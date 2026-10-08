@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+runs/
+outputs/
+models/*.pt
+models/*.zip
+datasets/
+*.mp4
+.venv-export/
+models/*.onnx
+models/tflite_export/
